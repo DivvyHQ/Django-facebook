@@ -186,7 +186,7 @@ class FacebookConnection(object):
 
                 try:
                     response_file = opener.open(
-                        url, post_string, timeout=extended_timeout)
+                        url, post_string.encode(), timeout=extended_timeout)
                     response = response_file.read().decode('utf8')
                 except (HTTPError,) as e:
                     response_file = e
