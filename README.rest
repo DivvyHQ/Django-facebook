@@ -10,7 +10,7 @@ Django Facebook by Thierry Schellenbach (`mellowmorning.com <http://www.mellowmo
 
 This Fork
 -------
-[DivvyHQ](https://github.com/DivvyHQ) had to fork this project after upgrading the main Divvy app to Python 3 in order to fix an error. DivvyHQ's fork was created strictly to make the parts of Django-facebook that we use compatible with Python 3. This fork may or may not be maintained further. 
+`DivvyHQ <https://github.com/DivvyHQ>`_ had to fork this project after upgrading the main Divvy app to Python 3 in order to fix an error. DivvyHQ's fork was created strictly to make the parts of Django-facebook that we use compatible with Python 3. This fork may or may not be maintained further. 
 
 Status
 -------
