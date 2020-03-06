@@ -8,6 +8,9 @@ Django Facebook by Thierry Schellenbach (`mellowmorning.com <http://www.mellowmo
 .. image:: https://pypip.in/d/django-facebook/badge.png
         :target: https://pypi.python.org/pypi/django-facebook
 
+This Fork
+-------
+[DivvyHQ](https://github.com/DivvyHQ) had to fork this project after upgrading the main Divvy app to Python 3 in order to fix an error. DivvyHQ's fork was created strictly to make the parts of Django-facebook that we use compatible with Python 3. This fork may or may not be maintained further. 
 
 Status
 -------
